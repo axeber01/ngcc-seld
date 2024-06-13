@@ -1,4 +1,4 @@
 # ngcc-seld
-Sound event localization and using Neural Generalized Cross-Correlations
+Sound event localization and detection using Neural Generalized Cross-Correlations
 
 Code coming soon!
