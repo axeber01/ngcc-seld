@@ -13,8 +13,18 @@ This repository implements the audio-only part of our [DCASE 2024 challenge subm
 }
 ```
 
-This repository is based on the [DCASE 2024 SELD challenge baseline implementation](https://github.com/partha2409/DCASE2024_seld_baseline).
+A more detailed description of the method can be found in the [arXiv paper](https://arxiv.org/abs/2408.17166).
 
+```
+@article{berg2024learning,
+  title={Learning Multi-Target TDOA Features for Sound Event Localization and Detection},
+  author={Berg, Axel and Engman, Johanna and Gulin, Jens and {\AA}str{\"o}m, Karl and Oskarsson, Magnus},
+  journal={arXiv preprint arXiv:2408.17166},
+  year={2024}
+}
+```
+
+This repository is based on the [DCASE 2024 SELD challenge baseline implementation](https://github.com/partha2409/DCASE2024_seld_baseline).
 
 [Please visit the official webpage of the DCASE 2024 Challenge for details missing in this repo](https://dcase.community/challenge2024/task-audio-and-audiovisual-sound-event-localization-and-detection-with-source-distance-estimation).
 
