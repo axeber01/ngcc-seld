@@ -13,14 +13,17 @@ This repository implements the audio-only part of our [DCASE 2024 challenge subm
 }
 ```
 
-A more detailed description of the method can be found in the [arXiv paper](https://arxiv.org/abs/2408.17166).
+A more detailed description of the method can be found in the [DCASE workshop paper](https://dcase.community/documents/workshop2024/proceedings/DCASE2024Workshop_Berg_46.pdf).
 
 ```
-@article{berg2024learning,
-  title={Learning Multi-Target TDOA Features for Sound Event Localization and Detection},
-  author={Berg, Axel and Engman, Johanna and Gulin, Jens and {\AA}str{\"o}m, Karl and Oskarsson, Magnus},
-  journal={arXiv preprint arXiv:2408.17166},
-  year={2024}
+@inproceedings{Berg2024,
+    author = "Berg, Axel and Engman, Johanna and Gulin, Jens and Åström, Karl and Oskarsson, Magnus",
+    title = "Learning Multi-Target TDOA Features for Sound Event Localization and Detection",
+    booktitle = "Proceedings of the Detection and Classification of Acoustic Scenes and Events 2024 Workshop (DCASE2024)",
+    address = "Tokyo, Japan",
+    month = "October",
+    year = "2024",
+    pages = "16--20",
 }
 ```
 
